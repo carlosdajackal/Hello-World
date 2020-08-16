@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-16T21:33:16.324Z" agent="5.0 (Windows)" etag="GncLS6VBUkrqLgkLDlXd" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-16T21:38:22.977Z" agent="5.0 (Windows)" etag="uI8kd1U02KnIpH8vkZ_J" version="13.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2500" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -21,15 +21,6 @@
         </mxCell>
         <mxCell id="X7Ppft-jQ7yApB3Ie5x3-5" value="Start" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="40" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="X7Ppft-jQ7yApB3Ie5x3-7" value="&lt;h1&gt;Juan Nevarez Assignment 1.3&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Write a program that will calculate the cost of installing fiber &lt;br&gt;optic cable at a cost of $0.87 per ft for a company. Your program should&lt;br&gt; display the company name and the total cost.&amp;nbsp;&lt;/p&gt; &lt;br&gt;    &lt;p&gt;Create a flowchart and write pseudocode for the following steps:&amp;nbsp;&lt;/p&gt; &lt;br&gt;    &lt;ol&gt;&lt;li&gt;Display a welcome message for your program.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Get the company name from the user.&lt;/li&gt;&lt;li&gt;Get the number of feet of fiber optic to be installed from the user.&lt;/li&gt;&lt;li&gt;Multiply the total cost as the number of feet times $0.87.&lt;/li&gt;&lt;li&gt;Display the calculated information and company name. &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;pre style=&quot;background-color: #282c34 ; color: #bbbbbb ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #5c6370 ; font-style: italic&quot;&gt;# Juan Nevarez&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #5c6370 ; font-style: italic&quot;&gt;# Week 1.3 Assignment&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #5c6370 ; font-style: italic&quot;&gt;# Aug 16, 2020&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #5c6370 ; font-style: italic&quot;&gt;# Write a program that will calculate the cost of installing fiber optic cable at a cost of $0.87 per ft for a company.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #5c6370 ; font-style: italic&quot;&gt;# Your program should display the company name and the total cost.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #5c6370 ; font-style: italic&quot;&gt;# -----------------------------------------------------------------------------#&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #5c6370 ; font-style: italic&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #5c6370 ; font-style: italic&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #2bbac5&quot;&gt;print&lt;/span&gt;(&lt;span style=&quot;color: #89ca78&quot;&gt;&quot;Welcome to calculate the cost of installing fiber optic cable program&quot;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;company = &lt;span style=&quot;color: #2bbac5&quot;&gt;input&lt;/span&gt;(&lt;span style=&quot;color: #89ca78&quot;&gt;&quot;Enter company name: &quot;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;feet = &lt;span style=&quot;color: #2bbac5&quot;&gt;float&lt;/span&gt;(&lt;span style=&quot;color: #2bbac5&quot;&gt;input&lt;/span&gt;(&lt;span style=&quot;color: #89ca78&quot;&gt;&quot;Enter number of feet of fiber optic to be installed: &quot;&lt;/span&gt;))&lt;br&gt;&lt;br&gt;total_cost = feet * &lt;span style=&quot;color: #d19a66&quot;&gt;0.87&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #d19a66&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #2bbac5&quot;&gt;print&lt;/span&gt;(&lt;span style=&quot;color: #89ca78&quot;&gt;&quot;Company Name: &quot;&lt;/span&gt;+company)&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: #2bbac5&quot;&gt;print&lt;/span&gt;(&lt;span style=&quot;color: #89ca78&quot;&gt;&quot;Total Cost: &quot;&lt;/span&gt;+&lt;span style=&quot;color: #2bbac5&quot;&gt;str&lt;/span&gt;(total_cost))&lt;br&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-200" y="50" width="670" height="610" as="geometry" />
-        </mxCell>
-        <mxCell id="X7Ppft-jQ7yApB3Ie5x3-13" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="350" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="X7Ppft-jQ7yApB3Ie5x3-14" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="350" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X7Ppft-jQ7yApB3Ie5x3-15" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -117,6 +108,25 @@
               <mxPoint x="619.5" y="900" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X7Ppft-jQ7yApB3Ie5x3-35" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="1080" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Ppft-jQ7yApB3Ie5x3-36" value="&lt;div&gt;Stop&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="1100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Ppft-jQ7yApB3Ie5x3-37" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="619.5" y="1020" as="sourcePoint" />
+            <mxPoint x="619.5" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="619.5" y="1030" />
+              <mxPoint x="619.5" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7Ppft-jQ7yApB3Ie5x3-39" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Juan Nevarez&lt;/div&gt;&lt;div&gt;CIS245&lt;/div&gt;&lt;div&gt;Assignment 1.3&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;Create a flowchart and write pseudocode for the following steps:&amp;nbsp;&lt;/p&gt; &lt;br&gt;    &lt;ol&gt;&lt;li&gt;Display a welcome message for your program.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Get the company name from the user.&lt;/li&gt;&lt;li&gt;Get the number of feet of fiber optic to be installed from the user.&lt;/li&gt;&lt;li&gt;Multiply the total cost as the number of feet times $0.87.&lt;/li&gt;&lt;li&gt;Display the calculated information and company name.&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="98" y="120" width="365" height="242" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
